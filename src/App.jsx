@@ -1,4 +1,3 @@
-import './index.css'
 import { Footer } from './Footer'
 
 function App() {
